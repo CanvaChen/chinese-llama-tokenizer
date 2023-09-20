@@ -9,8 +9,9 @@ The sun beyond the mountain glows. The Yellow River seaward flows. You can enjoy
 if __name__ == '__main__':
 public static void main(String[] args) {
 <body><h1>标题一</h1><h2>标题二</h2><p>段落</p></body>
-cos2α=2cos²α−1
-f(b)−f(a)=f′(ξ)(b−a),ξ∈(a,b)
+cos2α=2cos²α-1
+f(b)-f(a)=f′(ξ)(b-a),ξ∈(a,b)
+Ⅳ. 2³ ∛8
 ...
 '''
 
